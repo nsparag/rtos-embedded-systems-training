@@ -23,14 +23,14 @@ The content progresses from basic superloop-based design to a modular, task-driv
 
 | Folder | Description |
 |--------|------------|
-| 01_superloop_vs_rtos | Transition from superloop to RTOS |
-| 02_task_creation | Creating and running multiple tasks |
-| 03_scheduler_behavior | Task priorities and starvation |
-| 04_rtos_debugging | Debugging RTOS systems |
-| 05_queue_communication | Inter-task communication using queues |
-| 06_semaphore_isr_signaling | ISR to task synchronization |
-| 07_data_pipeline | Multi-stage pipeline design |
-| 08_mutex_shared_uart | Shared resource protection using mutex |
+| [01_superloop_vs_rtos](./01_superloop_vs_rtos/) | Transition from superloop to RTOS |
+| [02_task_creation](./02_task_creation/) | Creating and running multiple tasks |
+| [03_scheduler_behavior](./03_scheduler_behavior/) | Task priorities and starvation |
+| [04_rtos_debugging](./04_rtos_debugging/) | Debugging RTOS systems |
+| [05_queue_communication](./05_queue_communication/) | Inter-task communication using queues |
+| [06_semaphore_isr_signaling](./06_semaphore_isr_signaling/) | ISR to task synchronization |
+| [07_data_pipeline](./07_data_pipeline/) | Multi-stage pipeline design |
+| [08_mutex_shared_uart](./08_mutex_shared_uart/) | Shared resource protection using mutex |
 
 ---
 
